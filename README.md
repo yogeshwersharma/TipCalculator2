@@ -9,3 +9,4 @@
     . After I have calculated the tips once, if I go to setting page, the app
       crashes. I am not able to understand the reason yet. 
     . gif walkthrough: first_app.gif
+
